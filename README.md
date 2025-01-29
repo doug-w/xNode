@@ -14,6 +14,8 @@ Full Odin Inspector support requires an additional extension<br>
 
 Support xNode on [Ko-fi](https://ko-fi.com/Z8Z5DYWA) or [Patreon](https://www.patreon.com/thorbrigsted)
 
+For full Odin support, consider using [KAJed82's fork](https://github.com/KAJed82/xNode)
+
 ### xNode
 Thinking of developing a node-based plugin? Then this is for you. You can download it as an archive and unpack to a new unity project, or connect it as git submodule.
 
